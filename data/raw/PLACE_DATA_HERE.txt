@@ -1,0 +1,7 @@
+Put your telecom churn CSV file in this folder and name it:
+
+telecom_churn.csv
+
+Expected path:
+data/raw/telecom_churn.csv
+
