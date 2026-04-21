@@ -8,4 +8,5 @@ env/
 outputs/models/*.pkl
 outputs/figures/*.png
 outputs/*.csv
+logs/
 
