@@ -1,0 +1,49 @@
+Feature,Importance
+cat__Contract_Two year,0.8534170421904674
+num__tenure,0.7538402545575168
+cat__InternetService_DSL,0.6832507149605472
+num__MonthlyCharges,0.6727735767833632
+cat__InternetService_Fiber optic,0.63997128863436
+cat__Contract_Month-to-month,0.6350943922840331
+cat__PaperlessBilling_No,0.33763439892019603
+num__num_services,0.2933419941538096
+num__is_new_customer,0.25467256793964477
+cat__MultipleLines_No,0.25373205447548003
+cat__Dependents_Yes,0.25157619860984787
+cat__DeviceProtection_No internet service,0.2501670849446796
+cat__InternetService_No,0.2501670849446796
+cat__OnlineSecurity_No internet service,0.2501670849446796
+cat__TechSupport_No internet service,0.2501670849446796
+cat__StreamingTV_No internet service,0.2501670849446796
+cat__OnlineBackup_No internet service,0.2501670849446796
+cat__StreamingMovies_No internet service,0.2501670849446796
+cat__OnlineSecurity_Yes,0.23913862810850733
+num__TotalCharges,0.22532063686124365
+cat__PhoneService_Yes,0.20808972213686142
+cat__TechSupport_Yes,0.20738211326475475
+cat__PaymentMethod_Credit card (automatic),0.1997258855682385
+cat__PaymentMethod_Electronic check,0.19676982903621676
+cat__OnlineSecurity_No,0.1958592017823128
+cat__StreamingMovies_No,0.18117441215639946
+cat__StreamingTV_No,0.1796423311597917
+cat__PaymentMethod_Bank transfer (automatic),0.17521387414508877
+cat__TechSupport_No,0.16410268693855262
+cat__Partner_No,0.16066824839457922
+cat__gender_Female,0.15464806885936205
+cat__gender_Male,0.13879844241151365
+cat__StreamingMovies_Yes,0.1378949858302133
+cat__StreamingTV_Yes,0.13636290483359584
+cat__Partner_Yes,0.13277826287628955
+num__avg_charge_per_month,0.12320802818325878
+cat__OnlineBackup_Yes,0.11876925626550243
+cat__PaymentMethod_Mailed check,0.11527658059376474
+cat__PhoneService_No,0.08535678913401415
+cat__MultipleLines_No phone service,0.08535678913401415
+cat__OnlineBackup_No,0.0754898299393076
+cat__Contract_One year,0.07512386136445498
+num__SeniorCitizen,0.05681383062820511
+cat__MultipleLines_Yes,0.04564233233863487
+cat__DeviceProtection_Yes,0.04542435806710122
+cat__PaperlessBilling_Yes,0.044187887649343
+cat__Dependents_No,0.04187031266101886
+cat__DeviceProtection_No,0.0021449317409076877

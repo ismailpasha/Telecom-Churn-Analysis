@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC AUC,Display Name
+LogisticRegression,0.8041,0.6644,0.5294,0.5893,0.8415,Logistic Regression
+RandomForestClassifier,0.7864,0.6246,0.4893,0.5487,0.8174,Random Forest
+DecisionTreeClassifier,0.7282,0.4886,0.516,0.502,0.6602,Decision Tree
